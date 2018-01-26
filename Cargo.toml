@@ -1,0 +1,6 @@
+[package]
+name = "chatito"
+version = "0.1.0"
+authors = ["Blas Rodriguez Irizar <asymptoticbuffer@gmail.com>"]
+
+[dependencies]

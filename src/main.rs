@@ -1,3 +1,5 @@
+extern crate chatito;
+
 fn main() {
-    println!("Hello, world!");
+    chatito::server::run_server();
 }
